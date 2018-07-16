@@ -1,3 +1,7 @@
+//grupo
+//Lucas Resende de Sousa Amaral
+//Cliff Alves
+//Railton
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>
